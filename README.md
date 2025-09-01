@@ -1,2 +1,7 @@
 # simple-python-basics
-tiny Python examples for absolute beginners.
+Run
+- `python basics/01_print.py`
+- `python basics/02_input.py`
+
+Notes
+- Use Python 3.10+.
